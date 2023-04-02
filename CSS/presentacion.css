@@ -1,0 +1,55 @@
+h1{
+    color: #1F87A5;
+    text-align: center;
+    text-shadow: 2px 2px 2px #ced4da;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: 20px;
+}
+
+h3{
+    color: #1F91A5;
+    text-align: center;
+}
+
+h5{
+    color: #1F72A5;
+    text-align: center;
+    text-shadow: 3px 3px 3px #ced4da;
+}
+
+div{
+    padding: 5px center;
+    border: 4px solid #8AD8EE;
+    margin: 20px;
+    width: 1090px;
+    text-align: center;
+}
+
+img{
+    padding: 2px;
+    border: 5px solid #457b9d;
+    margin: 10px;
+}
+
+.caja.monospace{
+    background-color: #A5E1F2;
+}
+
+.fuente_lucida{
+    font-family: 'Lucida Handwriting', cursive;
+    background-color: #72B6CA;
+    height: 30px;
+}
+hr{
+    height: 1px;
+    width: 1090px;
+    background-color: black;
+}
+
+
+
+
+
